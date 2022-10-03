@@ -1,2 +1,2 @@
 # rust-password-generator
-rust-password-generator
+![Screen 1](screen.png)
